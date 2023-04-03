@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @toddlyons
-- 👀 I’m interested in Hugo CMS and BFRPG 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Debian, Solus, OpenMediaVault, Pi-Hole, GIMP, Kdenlive, Audacity, Hugo CMS, and Open Source RPGs 
+- 🌱 I’m currently (re-)learning video editing
+- 💞️ I’m looking to collaborate on Basic Fantasy Role-Playing Game
+- 📫 Reach me on Mastodon. 
 
 <!---
 toddlyons/toddlyons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
