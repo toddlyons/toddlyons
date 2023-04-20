@@ -2,7 +2,7 @@
 - 👀 I’m interested in Debian, Solus, OpenMediaVault, Pi-Hole, GIMP, Kdenlive, Audacity, Hugo CMS, and Open Source RPGs 
 - 🌱 I’m currently (re-)learning video editing
 - 💞️ I’m looking to collaborate on Basic Fantasy Role-Playing Game
-- 📫 Reach me on Mastodon. 
+- 📫 Reach me on [Mastodon](https://mastodon.social/@toddlyons). 
 
 <!---
 toddlyons/toddlyons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
