@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @toddlyons
-- 👀 I’m interested in Open Source RPGs, Debian, Solus, OpenMediaVault, Pi-Hole, Inkscape, GIMP, Kdenlive, Audacity, Hugo CMS, and HTMLy.
+- 👀 I’m interested in Open Source RPGs, Debian, Solus, OpenMediaVault, Pi-Hole, Inkscape, GIMP, Kdenlive, Audacity, Hugo CMS, and HTMLy
 - 🌱 I’m currently working on video editing and vector drawing
 - 💞️ I’m looking to collaborate on Basic Fantasy Role-Playing Game
-- 📫 Reach me on [Mastodon](https://mastodon.social/@toddlyons), see my latest books on [Amazon](https://amazon.com/author/toddlyons), news/updates on [toddlyons.ca](https://toddlyons.ca). 
+- 📫 Reach me on [Mastodon](https://mastodon.social/@toddlyons), see my latest books on [Amazon](https://amazon.com/author/toddlyons), news/updates on [my personal website](https://toddlyons.ca)
 
 <!---
 toddlyons/toddlyons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
