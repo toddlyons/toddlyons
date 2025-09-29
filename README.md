@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toddlyons
-- 👀 I’m interested in Debian, Solus, OpenMediaVault, Pi-Hole, GIMP, Kdenlive, Audacity, Hugo CMS, and Open Source RPGs 
-- 🌱 I’m currently (re-)learning video editing
+- 👀 I’m interested in Open Source RPGs, Debian, Solus, OpenMediaVault, Pi-Hole, Inkscape, GIMP, Kdenlive, Audacity, Hugo CMS, and HTMLy.
+- 🌱 I’m currently working on video editing and vector drawing
 - 💞️ I’m looking to collaborate on Basic Fantasy Role-Playing Game
 - 📫 Reach me on [Mastodon](https://mastodon.social/@toddlyons). 
 
